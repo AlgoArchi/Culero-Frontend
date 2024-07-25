@@ -1,0 +1,6 @@
+export type PLATFORM_TYPE = {
+    GITHUB: 'GITHUB',
+    LINKEDIN: 'LINKEDIN',
+    FACEBOOK: 'FACEBOOK',
+    TWITTER: 'TWITTER'
+}
